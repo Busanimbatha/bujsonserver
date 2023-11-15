@@ -1,13 +1,13 @@
 {
   "posts": [
   {
-    "id": 1,
+    "id": 2,
     "name": "Busani",
     "email": "sani@gmail.com",
      "body": "15-11-2023"
   },
     {
-    "id": 2,
+    "id": 3,
     "name": "Sanele",
     "email": "sene@gmail.com",
      "body": "10-11-2023"
